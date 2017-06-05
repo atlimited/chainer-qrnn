@@ -1,9 +1,0 @@
-# ignore all
-*
-
-# allow any
-!*/
-!*.py
-!*.md
-!.gitignore
-!docker_file
